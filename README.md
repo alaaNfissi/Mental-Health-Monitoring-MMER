@@ -308,9 +308,9 @@ to the authors. See `LICENSE.md` for the full license text.
 
 ---
 
-<!-- CONTACT -->
+<!-- CONTACT
 ## Contact
 
 Alaa Nfissi - [@LinkedIn](https://www.linkedin.com/in/alaa-nfissi/) - alaa.nfissi@mail.concordia.ca
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>  -->
