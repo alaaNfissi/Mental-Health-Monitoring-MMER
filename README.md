@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/alaaNfissi/Deep_MultiModal-Emotion-Recognition">
+  <a href="https://github.com/alaaNfissi/Mental-Health-Monitoring-MMER">
     <img src="figures/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -17,16 +17,16 @@
 
 <div align="center">
 
-[![View - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](https://github.com/alaaNfissi/Deep_MultiModal-Emotion-Recognition/#readme "Go to project documentation")
+[![View - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](https://github.com/alaaNfissi/Mental-Health-Monitoring-MMER/#readme "Go to project documentation")
 
 </div>  
 
 <div align="center">
     <p align="center">
     ·
-    <a href="https://github.com/alaaNfissi/Deep_MultiModal-Emotion-Recognition/issues">Report Bug</a>
+    <a href="https://github.com/alaaNfissi/Mental-Health-Monitoring-MMER/issues">Report Bug</a>
     ·
-    <a href="https://github.com/alaaNfissi/Deep_MultiModal-Emotion-Recognition/issues">Request Feature</a>
+    <a href="https://github.com/alaaNfissi/Mental-Health-Monitoring-MMER/issues">Request Feature</a>
   </p>
 </div>
 
@@ -177,8 +177,8 @@ To guarantee robust performance across all emotion categories, the model's effec
 
 1. **Clone** this repo:
    ```bash
-   git clone https://github.com/alaaNfissi/Deep_MultiModal-Emotion-Recognition.git
-   cd Deep_MultiModal-Emotion-Recognition
+   git clone https://github.com/alaaNfissi/Mental-Health-Monitoring-MMER.git
+   cd Mental-Health-Monitoring-MMER
    ```
 2. **Install dependencies**:
    ```bash
@@ -258,8 +258,8 @@ If you utilize this code, please cite:
 1. **Install Git** (if not already installed).
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/alaaNfissi/Deep_MultiModal-Emotion-Recognition.git
-   cd Deep_MultiModal-Emotion-Recognition
+   git clone https://github.com/alaaNfissi/Mental-Health-Monitoring-MMER.git
+   cd Mental-Health-Monitoring-MMER
    ```
 3. **Ensure Python is Installed**:
    - Check Python version (3.7 recommended):
