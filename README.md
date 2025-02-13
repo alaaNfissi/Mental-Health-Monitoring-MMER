@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<div id="readme-top" align="center">
   <a href="https://github.com/alaaNfissi/Mental-Health-Monitoring-MMER">
     <img src="figures/logo.png" alt="Logo" width="80" height="80">
   </a>
