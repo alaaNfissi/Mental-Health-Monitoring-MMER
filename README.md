@@ -102,7 +102,7 @@ The system demonstrates strong performance on the **IEMOCAP** dataset, achieving
 ## Model Architecture
 
 <p align="center">
-  <img src="figures/model_archi1.jpg" width="800" alt="MMER Architecture" />
+  <img src="figures/model.jpg" width="800" alt="MMER Architecture" />
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
