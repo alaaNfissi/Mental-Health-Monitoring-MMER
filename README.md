@@ -10,7 +10,7 @@
   <p align="center">
     Advancing Mental Health Monitoring with Deep Learning-Based Multimodal Emotion Recognition.
     <br />
-    <strong>This paper has been submitted for publication in Canadian AI.</strong>
+    <strong>This paper has been accepted for publication in Canadian AI.</strong>
     <br />
   </p>
 </div>
